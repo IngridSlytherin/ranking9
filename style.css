@@ -65,10 +65,10 @@ alternate;
 
 @keyframes animacao {
    from { 
-    height: 5px;
+    height: 5%;
   }
    to { 
-    height: 250px;
+    height: 75%;
   }
 }
 /* ---------- FIM ----------*/
